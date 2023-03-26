@@ -1,10 +1,10 @@
 @font-face {
     font-family: myFont;
-    src: url(/Pokemon\ Hollow.ttf);
+    src: url(Pokemon\ Hollow.ttf);
 }
 @font-face {
     font-family: welcome;
-    src: url(/RULES.ttf);
+    src: url(RULES.ttf);
 }
 *{  padding: 0;
     margin: 0;
@@ -59,7 +59,7 @@ a.active,a:hover{
     display: none;
 }
 section{
-    background:url(/dark.jpg) no-repeat;
+    background:url(dark.jpg) no-repeat;
     background-size: cover;
     height: 100vh
 }
